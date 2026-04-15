@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png" alt="HooBank Banner" width="100%" />
 </p>
@@ -10,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://project-hoobank-peach.vercel.app/" target="_blank">
+  <a href="https://hoo-bank-ui-sigma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Live Demo-Visit Site-6C63FF?style=for-the-badge" alt="Live Demo" />
   </a>
   <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -23,7 +22,7 @@
 
 ## 🌐 Live Demo
 
-> **[https://project-hoobank-peach.vercel.app/](https://project-hoobank-peach.vercel.app/)**
+> **[https://hoo-bank-ui-sigma.vercel.app/](https://hoo-bank-ui-sigma.vercel.app/)**
 
 ---
 
@@ -42,24 +41,24 @@
 
 ## 🛠️ Tech Stack
 
-| Technology | Version | Purpose |
-|---|---|---|
-| [React.js](https://reactjs.org/) | 18.2.0 | UI component framework |
-| [Vite](https://vitejs.dev/) | 3.0.0 | Build tool & dev server |
-| [Tailwind CSS](https://tailwindcss.com/) | 3.1.6 | Utility-first CSS styling |
-| [Framer Motion](https://www.framer.com/motion/) | 12.x | Animations & transitions |
-| [PostCSS](https://postcss.org/) | 8.4.x | CSS processing pipeline |
-| [Autoprefixer](https://github.com/postcss/autoprefixer) | 10.4.x | Cross-browser CSS compatibility |
-| HTML5 | — | Semantic markup |
-| JavaScript (ES2022) | — | Core application logic |
-| CSS3 | — | Custom styles & animations |
+| Technology                                              | Version | Purpose                         |
+| ------------------------------------------------------- | ------- | ------------------------------- |
+| [React.js](https://reactjs.org/)                        | 18.2.0  | UI component framework          |
+| [Vite](https://vitejs.dev/)                             | 3.0.0   | Build tool & dev server         |
+| [Tailwind CSS](https://tailwindcss.com/)                | 3.1.6   | Utility-first CSS styling       |
+| [Framer Motion](https://www.framer.com/motion/)         | 12.x    | Animations & transitions        |
+| [PostCSS](https://postcss.org/)                         | 8.4.x   | CSS processing pipeline         |
+| [Autoprefixer](https://github.com/postcss/autoprefixer) | 10.4.x  | Cross-browser CSS compatibility |
+| HTML5                                                   | —       | Semantic markup                 |
+| JavaScript (ES6)                                        | —       | Core application logic          |
+| CSS3                                                    | —       | Custom styles & animations      |
 
 ---
 
 ## 📁 Folder Structure
 
 ```
-project_hoobank-main/
+OpalBank/
 │
 ├── public/                     # Static public assets
 │
@@ -130,18 +129,18 @@ project_hoobank-main/
 
 ## 🧩 Components Overview
 
-| Component | Description |
-|---|---|
-| `Navbar` | Fixed top navigation with mobile menu, glassmorphism backdrop, and scroll-aware styling |
-| `Hero` | Full-screen hero with gradient text, discount badge, and animated CTA |
-| `Stats` | Animated statistics counters (users, transactions, countries) |
-| `Business` | Feature highlights with icon cards and gradient list items |
-| `Billing` | Side-by-side billing graphic with App Store & Google Play badges |
-| `CardDeal` | Premium card visual with deal information |
-| `Testimonials` | Feedback cards with star ratings and user avatars |
-| `Clients` | Horizontal logo strip for trusted partner brands |
-| `CTA` | Full-width call-to-action banner |
-| `Footer` | Multi-column footer with social links and legal info |
+| Component      | Description                                                                             |
+| -------------- | --------------------------------------------------------------------------------------- |
+| `Navbar`       | Fixed top navigation with mobile menu, glassmorphism backdrop, and scroll-aware styling |
+| `Hero`         | Full-screen hero with gradient text, discount badge, and animated CTA                   |
+| `Stats`        | Animated statistics counters (users, transactions, countries)                           |
+| `Business`     | Feature highlights with icon cards and gradient list items                              |
+| `Billing`      | Side-by-side billing graphic with App Store & Google Play badges                        |
+| `CardDeal`     | Premium card visual with deal information                                               |
+| `Testimonials` | Feedback cards with star ratings and user avatars                                       |
+| `Clients`      | Horizontal logo strip for trusted partner brands                                        |
+| `CTA`          | Full-width call-to-action banner                                                        |
+| `Footer`       | Multi-column footer with social links and legal info                                    |
 
 ---
 
@@ -186,11 +185,11 @@ npm run preview
 
 ## 📦 Available Scripts
 
-| Script | Command | Description |
-|---|---|---|
-| Development | `npm run dev` | Start Vite dev server with HMR |
-| Build | `npm run build` | Create optimized production bundle |
-| Preview | `npm run preview` | Serve the production build locally |
+| Script      | Command           | Description                        |
+| ----------- | ----------------- | ---------------------------------- |
+| Development | `npm run dev`     | Start Vite dev server with HMR     |
+| Build       | `npm run build`   | Create optimized production bundle |
+| Preview     | `npm run preview` | Serve the production build locally |
 
 ---
 
@@ -208,7 +207,7 @@ npm run preview
 
 This project is deployed on **[Vercel](https://vercel.com/)**.
 
-**Live URL:** [https://project-hoobank-peach.vercel.app/](https://project-hoobank-peach.vercel.app/)
+**Live URL:** [https://hoo-bank-ui-sigma.vercel.app/](https://hoo-bank-ui-sigma.vercel.app/)
 
 To deploy your own fork:
 
@@ -236,14 +235,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
-
-- Original design & tutorial by **[JS Mastery](https://www.jsmastery.pro/)**
-- Enhanced with **Framer Motion** animations
-- Deployed via **Vercel**
-
----
-
 <p align="center">
-  Made with ❤️ and React.js · <a href="https://project-hoobank-peach.vercel.app/">View Live</a>
+  Made with ❤️ and React.js · <a href="https://hoo-bank-ui-sigma.vercel.app/">View Live</a>
 </p>
